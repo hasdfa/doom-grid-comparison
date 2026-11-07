@@ -1,0 +1,580 @@
+@import url('../public/fonts/fonts.css');
+:root {
+  font-family: Barlow, sans-serif;
+  color: #f4f1e8;
+  background: #171814;
+  font-synthesis: none;
+  color-scheme: dark;
+  --accent: #e1f288;
+  --muted: #b8b9ad;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+button {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid #414239;
+  background: #24251f;
+  color: inherit;
+  border-radius: 6px;
+  min-height: 44px;
+  padding: 0 16px;
+  font-size: 13px;
+  font-weight: 600;
+}
+button:hover {
+  background: #35372d;
+}
+button:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+button:focus-visible,
+a:focus-visible,
+.stage:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+a {
+  color: inherit;
+  text-underline-offset: 4px;
+}
+::selection {
+  background: var(--accent);
+  color: #171814;
+}
+main {
+  max-width: 1248px;
+  margin: auto;
+  padding: 0 48px;
+}
+header {
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #393a32;
+  font-size: 12px;
+}
+header a {
+  text-decoration: none;
+  color: var(--muted);
+}
+.wordmark {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #f4f1e8;
+  font-size: 16px;
+}
+.wordmark span {
+  font-size: 10px;
+  letter-spacing: 0.13em;
+  margin-left: 8px;
+  color: var(--muted);
+}
+.intro {
+  margin: 40px 0 32px;
+  display: flex;
+  align-items: baseline;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+.intro h1 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: clamp(40px, 5vw, 64px);
+  line-height: 1;
+  margin: 0;
+  font-weight: 700;
+}
+.intro p {
+  color: var(--muted);
+  font-size: 14px;
+  margin: 0;
+}
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.renderer-switch {
+  display: flex;
+  gap: 4px;
+  padding: 4px;
+  background: #24251f;
+  border: 1px solid #414239;
+  border-radius: 10px;
+}
+.renderer-switch button {
+  border: 0;
+  background: transparent;
+  min-height: 40px;
+}
+.renderer-switch button[aria-pressed='true'] {
+  background: var(--accent);
+  color: #171814;
+}
+.renderer-switch span {
+  font-weight: 400;
+  margin-left: 4px;
+}
+.readout {
+  display: flex;
+  gap: 24px;
+  color: var(--muted);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.readout strong {
+  color: var(--accent);
+  font-size: 18px;
+}
+.stage-host {
+  width: 100%;
+}
+.stage {
+  position: relative;
+  width: 100%;
+  background: #080906;
+  overflow: hidden;
+  border-radius: 6px;
+  isolation: isolate;
+}
+.grid-scale {
+  width: 1152px;
+  height: 720px;
+  transform-origin: top left;
+}
+.pixel {
+  display: block;
+  width: 100%;
+  height: 6px;
+  padding: 0 !important;
+  border: 0 !important;
+  contain: strict;
+  background: #080906;
+}
+.premium-grid {
+  width: 1152px;
+  height: 720px;
+  border: 0 !important;
+  border-radius: 0 !important;
+  --DataGrid-rowBorderColor: transparent;
+}
+.premium-grid .MuiDataGrid-cell {
+  padding: 0 !important;
+  border: 0 !important;
+  line-height: 0 !important;
+  min-height: 0 !important;
+}
+.premium-grid .MuiDataGrid-row {
+  min-height: 6px !important;
+  max-height: 6px !important;
+}
+.premium-grid .MuiDataGrid-scrollbar,
+.premium-grid .MuiDataGrid-filler {
+  display: none !important;
+}
+.mosaic-cell {
+  contain: strict;
+  padding: 0;
+  min-width: 0;
+  height: 6px;
+}
+.mosaic-grid {
+  width: 1152px;
+  height: 720px;
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: #10110eeb;
+  text-align: center;
+  padding: 24px;
+}
+.game-title {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 800;
+  font-size: clamp(64px, 12vw, 144px);
+  line-height: 1;
+  color: #e1f288;
+  letter-spacing: -0.03em;
+}
+.overlay p {
+  color: var(--muted);
+  font-size: 14px;
+  margin: 16px 0 24px;
+}
+.overlay .primary {
+  background: var(--accent);
+  color: #171814;
+  border: 0;
+  padding: 0 32px;
+  height: 48px;
+}
+.overlay small {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+  margin-top: 20px;
+}
+.overlay .error {
+  max-width: 60ch;
+  overflow-wrap: anywhere;
+  color: #ffb4a4;
+}
+.gamebar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 0;
+  border-bottom: 1px solid #393a32;
+  gap: 12px;
+}
+.gamebar p {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+.gamebar > div {
+  display: flex;
+  gap: 8px;
+}
+.gamebar button {
+  background: transparent;
+  border-color: transparent;
+  padding: 0 12px;
+}
+.gamebar button:hover {
+  background: #35372d;
+}
+.version {
+  border-left: 1px solid #414239;
+  margin-left: 12px;
+  padding-left: 16px;
+}
+.status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #818471;
+}
+.status-dot.active {
+  background: var(--accent);
+}
+.instructions {
+  color: var(--muted);
+  font-size: 12px;
+  margin: 24px 0 40px;
+}
+.instructions p {
+  line-height: 2.5;
+  margin: 0;
+}
+kbd {
+  font: inherit;
+  color: #f4f1e8;
+  border: 1px solid #414239;
+  padding: 4px 6px;
+  border-radius: 4px;
+  margin: 0 5px 0 16px;
+}
+kbd:first-child {
+  margin-left: 0;
+}
+.touch-controls {
+  display: none;
+  gap: 8px;
+  grid-template-columns: repeat(4, 1fr);
+  margin-bottom: 24px;
+}
+.touch-controls button {
+  touch-action: none;
+}
+footer {
+  border-top: 1px solid #393a32;
+  padding: 20px 0 28px;
+  color: var(--muted);
+  font-size: 11px;
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+footer p {
+  margin: 0;
+  line-height: 1.8;
+}
+@media (max-width: 760px) {
+  main {
+    padding: 0 20px;
+  }
+  header {
+    height: 72px;
+  }
+  .wordmark span {
+    display: none;
+  }
+  .intro {
+    gap: 16px;
+    margin: 28px 0;
+  }
+  .toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .readout {
+    justify-content: space-between;
+  }
+  .renderer-switch button {
+    flex: 1;
+  }
+  .gamebar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .version {
+    margin-left: 4px;
+    padding-left: 8px;
+  }
+  .instructions {
+    margin-bottom: 24px;
+  }
+  .touch-controls {
+    display: grid;
+  }
+  .overlay {
+    padding: 12px;
+  }
+  .overlay p {
+    margin: 8px 0 12px;
+  }
+  .overlay small {
+    display: none;
+  }
+  .game-title {
+    font-size: 64px;
+  }
+  footer {
+    flex-direction: column;
+  }
+}
+
+.ag-grid {
+  width: 1152px;
+  height: 720px;
+}
+.ag-grid .ag-cell {
+  padding: 0 !important;
+  border: 0 !important;
+  line-height: 0 !important;
+}
+.ag-grid .ag-cell-value,
+.ag-grid .ag-cell-wrapper {
+  width: 100%;
+  height: 6px;
+  padding: 0;
+}
+.ag-grid .ag-header,
+.ag-grid .ag-body-horizontal-scroll,
+.ag-grid .ag-body-vertical-scroll {
+  display: none !important;
+}
+@media (max-width: 760px) {
+  .renderer-switch {
+    flex-wrap: wrap;
+  }
+}
+
+.tanstack-grid {
+  width: 1152px;
+  height: 720px;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.tanstack-grid td {
+  width: 6px;
+  height: 6px;
+  padding: 0;
+  border: 0;
+}
+@media (min-width: 761px) and (max-width: 1100px) {
+  .toolbar {
+    flex-wrap: wrap;
+  }
+}
+
+.benchmark {
+  border-top: 1px solid #393a32;
+  padding: 32px 0;
+  scroll-margin-top: 16px;
+}
+.benchmark-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+.benchmark h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 36px;
+  margin: 0;
+}
+.benchmark p {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+.benchmark .primary {
+  background: var(--accent);
+  color: #171814;
+}
+.benchmark-viewport {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+.benchmark figure {
+  margin: 24px 0;
+}
+.benchmark figcaption {
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.benchmark figcaption span {
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 12px;
+  margin-left: 12px;
+}
+.benchmark-table-wrap {
+  overflow: auto;
+}
+.benchmark-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+.benchmark-table th,
+.benchmark-table td {
+  text-align: left;
+  padding: 16px 12px;
+  border-bottom: 1px solid #393a32;
+}
+.benchmark-table th:first-child {
+  padding-left: 0;
+}
+.benchmark-table thead {
+  color: var(--muted);
+  font-size: 12px;
+}
+.benchmark-table small {
+  display: block;
+  color: var(--muted);
+  font-weight: 400;
+  margin-top: 4px;
+}
+.bar-cell {
+  width: 40%;
+}
+.bar-track {
+  width: calc(100% - 52px);
+  display: inline-block;
+  height: 12px;
+  background: #303227;
+  vertical-align: middle;
+  margin-right: 12px;
+}
+.bar-fill {
+  height: 100%;
+  background: var(--accent);
+}
+.bar-cell strong {
+  font-size: 14px;
+}
+.benchmark .benchmark-note {
+  font-size: 12px;
+  max-width: 90ch;
+}
+@media (max-width: 760px) {
+  .benchmark-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .benchmark-table {
+    min-width: 600px;
+  }
+}
+
+.resolution-control {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  font-size: 13px;
+  color: var(--muted);
+}
+.resolution-control select {
+  font: inherit;
+  color: #f4f1e8;
+  background: #24251f;
+  border: 1px solid #414239;
+  border-radius: 6px;
+  padding: 10px 12px;
+  min-height: 44px;
+}
+.resolution-control select:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.chart-pixel {
+  stroke: none;
+  fill: #080906;
+}
+.renderer-switch {
+  flex-wrap: wrap;
+}
+.toolbar {
+  flex-wrap: wrap;
+}
+
+.scheduler-grid .MuiEventCalendar-dayTimeGridHeader,
+.scheduler-grid .MuiEventCalendar-dayTimeGridAllDayEventsGrid,
+.scheduler-grid .MuiEventCalendar-dayTimeGridTimeAxis,
+.scheduler-grid .MuiEventCalendar-dayTimeGridCurrentTimeIndicator,
+.scheduler-pixel > * { display: none !important; }
+.scheduler-grid .MuiEventCalendar-dayTimeGridContainer,
+.scheduler-grid .MuiEventCalendar-dayTimeGridColumn { border: 0; border-radius: 0; }
+.scheduler-grid .MuiEventCalendar-dayTimeGrid { overflow: hidden; }
+.scheduler-grid .scheduler-pixel {
+  --time-grid-event-column-gap: 0px;
+  top: var(--y-position);
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: #080906;
+}
+
+.scheduler-grid .scheduler-pixel::before {
+  content: none;
+  display: none;
+}

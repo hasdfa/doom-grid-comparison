@@ -1,0 +1,7 @@
+packages:
+  - "."
+allowBuilds:
+  esbuild: true
+  "@mui/x-telemetry": false
+overrides:
+  '@base-ui/charts-vendor': file:vendor/base-ui-charts-vendor-db47a70f7ab9.tgz

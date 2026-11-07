@@ -1,0 +1,41 @@
+{
+  "name": "@repo/doom-grid",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "@base-ui/charts": "file:vendor/base-ui-charts-db47a70f7ab9.tgz",
+    "@base-ui/mosaic": "file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz",
+    "@base-ui/react": "1.9.0",
+    "@emotion/react": "11.14.0",
+    "@emotion/styled": "11.14.1",
+    "@mui/icons-material": "7.3.11",
+    "@mui/material": "7.3.11",
+    "@mui/x-charts-premium": "9.17.0",
+    "@mui/x-data-grid-premium": "9.17.0",
+    "@mui/x-scheduler": "9.0.0-beta.15",
+    "@tanstack/react-table": "9.3.1",
+    "ag-grid-community": "36.3.0",
+    "ag-grid-react": "36.3.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.1",
+    "@types/react": "^19.2.3",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.2",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.0",
+    "vite": "^7.3.1",
+    "vitest": "^3.2.6"
+  }
+}
