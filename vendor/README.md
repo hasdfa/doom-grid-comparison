@@ -10,10 +10,10 @@ Library source and license terms are unchanged.
 
 # Base UI Mosaic source build
 
-Built from `mui/base-ui-mosaic` commit `2ae53b9ee2cb5f0b20cdc518b30ace2209d84b6f`, the latest default-branch revision on 2026-11-05.
+Built from `mui/base-ui-mosaic` commit `da4474be8f3dc8b89c16612a2311b67477602b9c`, from the data-source branch on 2026-11-09.
 Run `pnpm install --ignore-scripts` and `pnpm --filter @base-ui/mosaic build` at that revision.
-Set the generated `packages/mosaic/build/package.json` version to `0.0.0-source.2ae53b9ee2cb`.
-Archive the generated `build` directory as `package/` into `base-ui-mosaic-2ae53b9ee2cb.tgz`.
+Set the generated `packages/mosaic/build/package.json` version to `0.0.0-source.da4474be8f3d`.
+Archive the generated `build` directory as `package/` into `base-ui-mosaic-da4474be8f3d.tgz`.
 The app consumes this local archive instead of the published `@base-ui-private/mosaic` package.
 Library source and license terms are unchanged.
 

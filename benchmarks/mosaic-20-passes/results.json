@@ -1,0 +1,4162 @@
+[
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "21.1",
+      "4.57 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:32:57.697Z",
+    "durationMs": 8265,
+    "serverLoad": "2.19 5.31 6.44 2/1292 3640981",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "24.5",
+      "3.70 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:33:06.130Z",
+    "durationMs": 9349,
+    "serverLoad": "1.85 5.14 6.37 1/1290 3641019",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.4",
+      "8.43 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:33:15.633Z",
+    "durationMs": 8162,
+    "serverLoad": "1.86 5.08 6.35 1/1297 3641080",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "16.3",
+      "6.75 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:33:23.942Z",
+    "durationMs": 6065,
+    "serverLoad": "1.66 4.93 6.29 1/1305 3641160",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.3",
+      "37.67 ms",
+      "633.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:33:30.159Z",
+    "durationMs": 14945,
+    "serverLoad": "2.43 4.95 6.27 2/1375 3641732",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.2",
+      "32.69 ms",
+      "566.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:33:45.263Z",
+    "durationMs": 16273,
+    "serverLoad": "2.34 4.81 6.20 1/1348 3642021",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.5",
+      "62.40 ms",
+      "783.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:34:01.750Z",
+    "durationMs": 55693,
+    "serverLoad": "3.87 4.97 6.19 1/1403 3643273",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.6",
+      "55.84 ms",
+      "683.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:34:57.605Z",
+    "durationMs": 52560,
+    "serverLoad": "2.59 4.47 5.95 1/1395 3643628",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "27.2",
+      "3.52 ms",
+      "50.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:35:50.324Z",
+    "durationMs": 7735,
+    "serverLoad": "2.47 4.41 5.92 1/1395 3643724",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "21.4",
+      "4.67 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:35:58.188Z",
+    "durationMs": 8166,
+    "serverLoad": "2.70 4.40 5.90 2/1390 3643762",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "16.8",
+      "6.85 ms",
+      "66.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:36:06.511Z",
+    "durationMs": 5874,
+    "serverLoad": "3.29 4.49 5.92 1/1397 3643801",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.2",
+      "7.63 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:36:12.528Z",
+    "durationMs": 5938,
+    "serverLoad": "3.10 4.43 5.89 2/1407 3643824",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.3",
+      "31.73 ms",
+      "533.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:36:18.626Z",
+    "durationMs": 14673,
+    "serverLoad": "3.25 4.40 5.86 2/1399 3644360",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.4",
+      "31.30 ms",
+      "516.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:36:33.433Z",
+    "durationMs": 14493,
+    "serverLoad": "3.51 4.39 5.83 2/1406 3645232",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.6",
+      "58.74 ms",
+      "800.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:36:48.073Z",
+    "durationMs": 52790,
+    "serverLoad": "2.63 3.99 5.61 1/1390 3646249",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 2,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.6",
+      "55.21 ms",
+      "733.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:37:41.015Z",
+    "durationMs": 49499,
+    "serverLoad": "3.02 3.87 5.48 2/1591 3647283",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "25.5",
+      "3.65 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:38:30.671Z",
+    "durationMs": 7751,
+    "serverLoad": "3.90 4.04 5.53 2/1428 3647413",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "26.9",
+      "2.99 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:38:38.585Z",
+    "durationMs": 8224,
+    "serverLoad": "4.23 4.11 5.53 4/1425 3647500",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.9",
+      "7.86 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:38:46.971Z",
+    "durationMs": 5789,
+    "serverLoad": "4.13 4.09 5.52 3/1433 3647554",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "15.7",
+      "7.30 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:38:52.956Z",
+    "durationMs": 8284,
+    "serverLoad": "4.10 4.09 5.50 4/1437 3647634",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.5",
+      "33.91 ms",
+      "500.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:39:01.441Z",
+    "durationMs": 14112,
+    "serverLoad": "4.19 4.11 5.49 4/1371 3647764",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.4",
+      "33.17 ms",
+      "516.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:39:15.696Z",
+    "durationMs": 15748,
+    "serverLoad": "4.20 4.12 5.47 1/1370 3648548",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.4",
+      "63.78 ms",
+      "899.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:39:31.608Z",
+    "durationMs": 54304,
+    "serverLoad": "2.96 3.78 5.28 3/1382 3649236",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 3,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.5",
+      "57.75 ms",
+      "800.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:40:26.075Z",
+    "durationMs": 54057,
+    "serverLoad": "4.06 3.97 5.26 2/1559 3650842",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "23.9",
+      "3.56 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:41:20.285Z",
+    "durationMs": 8060,
+    "serverLoad": "4.39 4.03 5.27 2/1407 3651093",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "22.9",
+      "3.59 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:41:28.514Z",
+    "durationMs": 8154,
+    "serverLoad": "3.94 3.95 5.23 1/1401 3651114",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "16.6",
+      "7.83 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:41:36.836Z",
+    "durationMs": 6026,
+    "serverLoad": "4.90 4.15 5.29 2/1394 3651212",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.4",
+      "7.10 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:41:43.014Z",
+    "durationMs": 5842,
+    "serverLoad": "4.99 4.18 5.29 3/1402 3651269",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.9",
+      "44.27 ms",
+      "683.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:41:49.024Z",
+    "durationMs": 15032,
+    "serverLoad": "4.48 4.11 5.25 3/1504 3651753",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.1",
+      "35.90 ms",
+      "649.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:42:04.235Z",
+    "durationMs": 14947,
+    "serverLoad": "4.36 4.10 5.23 2/1478 3652537",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "64.89 ms",
+      "833.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:42:19.346Z",
+    "durationMs": 58905,
+    "serverLoad": "3.90 3.98 5.11 14/1650 3653680",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 4,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.4",
+      "62.80 ms",
+      "850.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:43:18.473Z",
+    "durationMs": 58200,
+    "serverLoad": "3.48 3.86 5.00 6/1520 3654171",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "21.1",
+      "3.60 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:44:16.838Z",
+    "durationMs": 8105,
+    "serverLoad": "3.84 3.93 5.01 7/1591 3654297",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "21.2",
+      "3.74 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:44:25.124Z",
+    "durationMs": 8437,
+    "serverLoad": "4.02 3.96 5.01 4/1578 3654365",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.2",
+      "7.97 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:44:33.746Z",
+    "durationMs": 8364,
+    "serverLoad": "4.63 4.10 5.05 6/1580 3654442",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "15.4",
+      "6.99 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:44:42.298Z",
+    "durationMs": 8245,
+    "serverLoad": "4.39 4.06 5.02 3/1475 3654471",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.7",
+      "47.15 ms",
+      "783.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:44:50.714Z",
+    "durationMs": 15274,
+    "serverLoad": "3.91 3.97 4.98 2/1463 3654537",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.2",
+      "35.59 ms",
+      "583.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:45:06.173Z",
+    "durationMs": 15784,
+    "serverLoad": "3.41 3.86 4.92 1/1470 3654636",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.4",
+      "60.57 ms",
+      "833.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:45:22.121Z",
+    "durationMs": 54465,
+    "serverLoad": "2.58 3.55 4.75 3/1397 3654922",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 5,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.5",
+      "60.25 ms",
+      "766.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:46:16.750Z",
+    "durationMs": 52787,
+    "serverLoad": "2.73 3.42 4.65 1/1351 3655278",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "26.7",
+      "3.05 ms",
+      "50.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:47:09.697Z",
+    "durationMs": 8003,
+    "serverLoad": "2.94 3.44 4.64 1/1368 3655426",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "23.2",
+      "3.45 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:47:17.855Z",
+    "durationMs": 6103,
+    "serverLoad": "2.71 3.38 4.61 3/1368 3655499",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "17.7",
+      "6.13 ms",
+      "66.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:47:24.132Z",
+    "durationMs": 5712,
+    "serverLoad": "2.65 3.36 4.60 1/1367 3655539",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.2",
+      "7.62 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:47:29.996Z",
+    "durationMs": 5901,
+    "serverLoad": "2.72 3.35 4.58 2/1364 3655592",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.6",
+      "32.23 ms",
+      "483.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:47:36.063Z",
+    "durationMs": 14840,
+    "serverLoad": "2.78 3.33 4.56 2/1364 3656361",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.9",
+      "51.82 ms",
+      "650.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:47:51.063Z",
+    "durationMs": 14669,
+    "serverLoad": "2.90 3.33 4.54 4/1361 3656969",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.5",
+      "58.40 ms",
+      "783.2 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:48:05.910Z",
+    "durationMs": 55084,
+    "serverLoad": "2.51 3.19 4.42 2/1354 3657208",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 6,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.5",
+      "61.80 ms",
+      "766.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:49:01.202Z",
+    "durationMs": 55136,
+    "serverLoad": "2.24 3.00 4.28 4/1441 3658584",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "19.0",
+      "4.18 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:49:56.498Z",
+    "durationMs": 6077,
+    "serverLoad": "2.30 3.00 4.28 6/1435 3658635",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "23.0",
+      "3.74 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:50:02.784Z",
+    "durationMs": 8508,
+    "serverLoad": "2.62 3.05 4.28 2/1430 3658670",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.9",
+      "7.34 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:50:11.481Z",
+    "durationMs": 8238,
+    "serverLoad": "2.57 3.03 4.27 8/1553 3659084",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "14.3",
+      "7.78 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:50:19.913Z",
+    "durationMs": 8554,
+    "serverLoad": "2.63 3.03 4.25 3/1404 3659186",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.5",
+      "36.56 ms",
+      "483.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:50:28.641Z",
+    "durationMs": 15016,
+    "serverLoad": "2.96 3.08 4.25 1/1395 3659466",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.3",
+      "40.40 ms",
+      "566.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:50:43.839Z",
+    "durationMs": 12911,
+    "serverLoad": "2.60 2.99 4.20 3/1403 3659557",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.5",
+      "58.30 ms",
+      "783.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:50:56.936Z",
+    "durationMs": 54643,
+    "serverLoad": "1.70 2.68 4.02 1/1484 3660219",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 7,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "69.92 ms",
+      "866.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:51:51.804Z",
+    "durationMs": 55627,
+    "serverLoad": "3.43 2.99 4.05 2/1462 3661310",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "24.9",
+      "3.62 ms",
+      "66.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:52:47.635Z",
+    "durationMs": 7792,
+    "serverLoad": "3.40 2.99 4.04 5/1476 3661341",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.7",
+      "5.48 ms",
+      "100.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:52:55.613Z",
+    "durationMs": 6573,
+    "serverLoad": "4.94 3.32 4.14 37/1599 3661770",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "11.0",
+      "10.78 ms",
+      "116.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:53:02.501Z",
+    "durationMs": 9171,
+    "serverLoad": "9.46 4.33 4.46 26/1611 3662345",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.0",
+      "7.26 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:53:11.906Z",
+    "durationMs": 7040,
+    "serverLoad": "8.86 4.29 4.45 8/1479 3663038",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.4",
+      "32.86 ms",
+      "466.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:53:19.105Z",
+    "durationMs": 14951,
+    "serverLoad": "7.68 4.26 4.43 2/1532 3664088",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.3",
+      "37.44 ms",
+      "599.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:53:34.215Z",
+    "durationMs": 14368,
+    "serverLoad": "7.49 4.38 4.47 2/1521 3664764",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "65.00 ms",
+      "866.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:53:48.763Z",
+    "durationMs": 58632,
+    "serverLoad": "4.45 4.04 4.35 2/1505 3666342",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 8,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.2",
+      "72.72 ms",
+      "1033.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:54:47.580Z",
+    "durationMs": 62515,
+    "serverLoad": "12.97 6.18 5.04 27/1610 3667646",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "14.1",
+      "5.45 ms",
+      "99.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:55:50.417Z",
+    "durationMs": 9305,
+    "serverLoad": "15.32 6.92 5.29 24/1618 3667757",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "14.2",
+      "6.84 ms",
+      "100.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:55:59.970Z",
+    "durationMs": 9815,
+    "serverLoad": "17.15 7.58 5.52 20/1601 3667842",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "10.5",
+      "10.19 ms",
+      "133.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:56:10.087Z",
+    "durationMs": 9374,
+    "serverLoad": "18.32 8.15 5.73 23/1614 3667897",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "9.7",
+      "9.24 ms",
+      "133.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:56:19.764Z",
+    "durationMs": 12362,
+    "serverLoad": "19.00 8.81 5.99 20/1607 3667988",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.5",
+      "65.36 ms",
+      "916.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:56:32.389Z",
+    "durationMs": 21015,
+    "serverLoad": "19.60 9.62 6.32 24/1611 3668186",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.1",
+      "190.13 ms",
+      "1416.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:56:53.702Z",
+    "durationMs": 21463,
+    "serverLoad": "21.84 10.76 6.76 23/1600 3668367",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.2",
+      "75.94 ms",
+      "1016.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:57:15.400Z",
+    "durationMs": 68155,
+    "serverLoad": "16.14 11.74 7.42 7/1600 3669287",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 9,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "62.94 ms",
+      "850.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:58:23.759Z",
+    "durationMs": 58084,
+    "serverLoad": "10.28 10.86 7.38 7/1567 3670744",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "24.5",
+      "3.12 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:59:22.014Z",
+    "durationMs": 5832,
+    "serverLoad": "9.94 10.78 7.38 4/1563 3670781",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "24.7",
+      "3.24 ms",
+      "66.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:59:28.036Z",
+    "durationMs": 5923,
+    "serverLoad": "9.62 10.70 7.37 6/1558 3670806",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "15.2",
+      "8.16 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:59:34.141Z",
+    "durationMs": 8083,
+    "serverLoad": "9.00 10.53 7.35 4/1552 3670861",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.9",
+      "6.71 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:59:42.413Z",
+    "durationMs": 6036,
+    "serverLoad": "8.52 10.40 7.33 2/1554 3670922",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "2.0",
+      "43.73 ms",
+      "799.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T10:59:48.634Z",
+    "durationMs": 14397,
+    "serverLoad": "8.18 10.24 7.32 9/1558 3671037",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.3",
+      "30.61 ms",
+      "533.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T11:00:03.291Z",
+    "durationMs": 17706,
+    "serverLoad": "8.60 10.24 7.37 6/1554 3671168",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "66.26 ms",
+      "883.2 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T11:00:21.226Z",
+    "durationMs": 59772,
+    "serverLoad": "4.61 8.80 7.05 6/1549 3671433",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 10,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "status": "Complete. Results are specific to this browser and device.",
+    "running": false,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.4",
+      "64.91 ms",
+      "866.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "startedAt": "2026-11-09T11:01:21.222Z",
+    "durationMs": 59753,
+    "serverLoad": "3.67 7.80 6.82 2/1551 3671663",
+    "browserGroup": "preview-chrome"
+  },
+  {
+    "trial": 11,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:04:04.129Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "18.1",
+      "7.90 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 10142,
+    "serverLoad": "2.73 6.13 6.32 4/1692 3673184",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:04:14.271Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "22.7",
+      "5.66 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8680,
+    "serverLoad": "3.43 6.17 6.33 3/1718 3673230",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:04:22.952Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "13.6",
+      "10.96 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7727,
+    "serverLoad": "3.39 6.12 6.31 3/1697 3673274",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:04:30.680Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "13.2",
+      "12.38 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8284,
+    "serverLoad": "3.41 6.03 6.28 5/1532 3673732",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:04:38.965Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.5",
+      "93.72 ms",
+      "1000.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 15843,
+    "serverLoad": "5.30 6.31 6.37 23/1737 3674784",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:04:54.809Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.6",
+      "78.00 ms",
+      "850.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 17542,
+    "serverLoad": "9.65 7.28 6.69 9/1719 3675064",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:05:12.352Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.6",
+      "181.99 ms",
+      "1851.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 116552,
+    "serverLoad": "23.47 13.41 9.02 38/1736 3677020",
+    "errors": []
+  },
+  {
+    "trial": 11,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:07:08.905Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.7",
+      "162.50 ms",
+      "1817.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 120467,
+    "serverLoad": "19.95 16.13 10.60 20/1902 3679824",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:09:09.373Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "14.9",
+      "7.97 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8434,
+    "serverLoad": "20.08 16.29 10.71 18/1925 3679896",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:09:17.807Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.6",
+      "6.90 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8902,
+    "serverLoad": "18.72 16.13 10.72 8/1851 3680362",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:09:26.710Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "12.0",
+      "13.71 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8106,
+    "serverLoad": "18.02 16.03 10.71 8/1852 3680457",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:09:34.817Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "11.7",
+      "12.40 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8645,
+    "serverLoad": "16.85 15.85 10.71 9/1835 3680553",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:09:43.463Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.3",
+      "135.62 ms",
+      "1167.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 17066,
+    "serverLoad": "14.61 15.40 10.65 7/1853 3680724",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:10:00.529Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.3",
+      "145.28 ms",
+      "1367.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 17700,
+    "serverLoad": "14.69 15.37 10.74 8/1835 3681430",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:10:18.229Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.9",
+      "134.26 ms",
+      "1400.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 88178,
+    "serverLoad": "13.56 15.05 11.04 7/1826 3685950",
+    "errors": []
+  },
+  {
+    "trial": 12,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:11:46.408Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.0",
+      "116.71 ms",
+      "1317.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 84235,
+    "serverLoad": "13.73 14.62 11.23 4/1849 3691743",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:13:10.643Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "21.2",
+      "5.23 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7545,
+    "serverLoad": "12.67 14.37 11.19 4/1859 3692078",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:13:18.189Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "22.2",
+      "4.95 ms",
+      "66.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7577,
+    "serverLoad": "12.54 14.31 11.19 6/1869 3692200",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:13:25.767Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "13.2",
+      "11.44 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7939,
+    "serverLoad": "13.20 14.39 11.24 3/1859 3692482",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:13:33.706Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "14.9",
+      "9.55 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7863,
+    "serverLoad": "12.38 14.20 11.20 7/1844 3692618",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:13:41.569Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.1",
+      "88.38 ms",
+      "1117.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 19436,
+    "serverLoad": "13.66 14.34 11.31 15/2027 3694660",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:14:01.007Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "84.34 ms",
+      "850.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 18836,
+    "serverLoad": "14.62 14.51 11.43 11/1821 3696257",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:14:19.844Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.0",
+      "112.95 ms",
+      "1467.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 75229,
+    "serverLoad": "14.48 14.55 11.69 7/1827 3699683",
+    "errors": []
+  },
+  {
+    "trial": 13,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:15:35.074Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.0",
+      "115.23 ms",
+      "1217.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 78630,
+    "serverLoad": "15.80 15.08 12.11 9/1842 3703494",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:16:53.705Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "18.3",
+      "6.31 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8290,
+    "serverLoad": "15.13 14.96 12.11 8/1838 3703743",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:17:01.996Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "17.2",
+      "6.25 ms",
+      "83.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8668,
+    "serverLoad": "15.20 14.98 12.13 10/1818 3704120",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:17:10.666Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "10.5",
+      "15.63 ms",
+      "116.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8393,
+    "serverLoad": "14.78 14.89 12.13 4/1815 3704571",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:17:19.060Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "10.0",
+      "15.54 ms",
+      "150.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 10691,
+    "serverLoad": "15.62 15.06 12.22 13/2044 3705187",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:17:29.752Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.2",
+      "80.42 ms",
+      "1084.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 18929,
+    "serverLoad": "15.82 15.15 12.31 14/1982 3705712",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:17:48.682Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.3",
+      "86.18 ms",
+      "950.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 20143,
+    "serverLoad": "15.25 15.06 12.34 12/1952 3706500",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:18:08.827Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.9",
+      "127.01 ms",
+      "1567.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 90075,
+    "serverLoad": "20.87 16.33 13.00 11/1973 3712754",
+    "errors": []
+  },
+  {
+    "trial": 14,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:19:38.903Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.8",
+      "134.47 ms",
+      "2068.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 98401,
+    "serverLoad": "22.32 18.48 14.15 33/2788 3719494",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:21:17.305Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "9.1",
+      "12.22 ms",
+      "216.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 10382,
+    "serverLoad": "24.59 19.09 14.39 27/2826 3720502",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:21:27.688Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "8.9",
+      "11.81 ms",
+      "200.2 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 10442,
+    "serverLoad": "26.84 19.76 14.66 32/2904 3721204",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:21:38.130Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "7.4",
+      "20.46 ms",
+      "216.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 13332,
+    "serverLoad": "27.18 20.06 14.82 39/2767 3721977",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:21:51.463Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "6.4",
+      "23.43 ms",
+      "216.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 14844,
+    "serverLoad": "28.09 20.62 15.08 29/2668 3722538",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:22:06.308Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.9",
+      "122.90 ms",
+      "1567.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 29548,
+    "serverLoad": "29.22 21.62 15.59 37/2775 3724100",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:22:35.857Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.3",
+      "114.58 ms",
+      "983.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 24108,
+    "serverLoad": "32.16 22.94 16.19 32/2748 3725733",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:22:59.970Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.7",
+      "159.20 ms",
+      "2084.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 119684,
+    "serverLoad": "33.23 26.29 18.23 39/2569 3732162",
+    "errors": []
+  },
+  {
+    "trial": 15,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:24:59.655Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.8",
+      "141.02 ms",
+      "2118.2 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 109952,
+    "serverLoad": "30.09 27.90 19.76 37/2380 3739634",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:26:49.610Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "10.4",
+      "8.44 ms",
+      "150.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8681,
+    "serverLoad": "33.13 28.62 20.08 61/2278 3740509",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:26:58.292Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "10.9",
+      "9.08 ms",
+      "166.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 9686,
+    "serverLoad": "36.26 29.44 20.44 46/2420 3741588",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:27:07.979Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "8.3",
+      "19.24 ms",
+      "183.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 11895,
+    "serverLoad": "36.90 29.82 20.66 29/2221 3743311",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:27:19.875Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "13.0",
+      "12.66 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8388,
+    "serverLoad": "32.98 29.21 20.56 11/2182 3744226",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:27:28.264Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.0",
+      "125.10 ms",
+      "1317.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 20097,
+    "serverLoad": "32.58 29.35 20.79 37/2269 3746302",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:27:48.362Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.3",
+      "81.02 ms",
+      "900.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 18294,
+    "serverLoad": "28.04 28.51 20.66 23/2415 3748540",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:28:06.658Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.0",
+      "116.79 ms",
+      "1267.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 82916,
+    "serverLoad": "28.54 28.79 21.46 32/2455 3758716",
+    "errors": []
+  },
+  {
+    "trial": 16,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:29:29.575Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.7",
+      "148.18 ms",
+      "1784.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 104091,
+    "serverLoad": "35.65 31.12 23.08 28/2302 3765421",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:31:13.668Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "13.0",
+      "7.92 ms",
+      "133.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8890,
+    "serverLoad": "35.12 31.09 23.11 30/2338 3765649",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:31:22.559Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "12.0",
+      "9.66 ms",
+      "133.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 9098,
+    "serverLoad": "34.22 31.04 23.18 34/2620 3766066",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:31:31.659Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "8.2",
+      "19.50 ms",
+      "166.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 11347,
+    "serverLoad": "36.39 31.64 23.50 43/3143 3767305",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:31:43.006Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "5.5",
+      "26.29 ms",
+      "250.2 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 17165,
+    "serverLoad": "42.20 33.16 24.13 44/3383 3768278",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:32:00.186Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.8",
+      "113.80 ms",
+      "1534.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 32807,
+    "serverLoad": "53.42 36.94 25.73 55/2722 3769320",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:32:32.994Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.8",
+      "154.90 ms",
+      "1567.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 28203,
+    "serverLoad": "54.56 38.47 26.53 53/2998 3771459",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:33:01.211Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.6",
+      "186.26 ms",
+      "1934.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 124318,
+    "serverLoad": "32.29 35.70 27.05 28/2396 3775660",
+    "errors": []
+  },
+  {
+    "trial": 17,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:35:05.531Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.6",
+      "190.26 ms",
+      "2418.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 128853,
+    "serverLoad": "32.74 34.16 27.57 18/2786 3781184",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:37:14.385Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "15.8",
+      "7.76 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8440,
+    "serverLoad": "31.96 33.98 27.54 12/2592 3781376",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:37:22.826Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.1",
+      "7.43 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8372,
+    "serverLoad": "30.16 33.52 27.46 17/2603 3781574",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:37:31.346Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "10.1",
+      "14.96 ms",
+      "133.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8851,
+    "serverLoad": "28.46 33.04 27.37 18/2571 3782056",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:37:40.202Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "11.6",
+      "11.30 ms",
+      "116.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8588,
+    "serverLoad": "29.24 33.06 27.43 17/2647 3782726",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:37:48.791Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.0",
+      "107.38 ms",
+      "1334.3 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 17954,
+    "serverLoad": "27.97 32.57 27.36 15/2773 3784125",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:38:06.746Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.4",
+      "74.88 ms",
+      "950.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 18664,
+    "serverLoad": "24.22 31.45 27.11 13/2419 3784741",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:38:25.411Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.8",
+      "131.04 ms",
+      "1701.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 93917,
+    "serverLoad": "25.78 30.81 27.35 21/2455 3791419",
+    "errors": []
+  },
+  {
+    "trial": 18,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:39:59.330Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.9",
+      "122.66 ms",
+      "1400.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 87444,
+    "serverLoad": "24.54 29.24 27.10 18/2551 3796243",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:41:26.775Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "16.2",
+      "7.34 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8710,
+    "serverLoad": "26.94 29.60 27.24 38/2443 3797077",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:41:35.488Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "16.0",
+      "5.41 ms",
+      "83.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8477,
+    "serverLoad": "27.08 29.54 27.25 8/2336 3797655",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:41:43.966Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "14.2",
+      "11.25 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7909,
+    "serverLoad": "25.79 29.23 27.16 3/2211 3797778",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:41:51.876Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "14.4",
+      "10.28 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 7876,
+    "serverLoad": "22.61 28.44 26.92 4/2220 3797855",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:41:59.753Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.6",
+      "60.24 ms",
+      "1050.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 16007,
+    "serverLoad": "18.34 27.21 26.54 2/2040 3798099",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:42:15.761Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.9",
+      "49.85 ms",
+      "683.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 13446,
+    "serverLoad": "18.54 26.82 26.43 5/2065 3798921",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:42:29.208Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.2",
+      "100.91 ms",
+      "1084.1 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 66530,
+    "serverLoad": "12.67 23.57 25.34 6/2358 3801542",
+    "errors": []
+  },
+  {
+    "trial": 19,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:43:35.740Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.1",
+      "111.18 ms",
+      "1167.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 71442,
+    "serverLoad": "11.00 20.95 24.31 15/2521 3804287",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:44:47.226Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "16.7",
+      "5.19 ms",
+      "83.5 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 5761,
+    "serverLoad": "11.16 20.82 24.25 28/2539 3804473",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "96x60",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:44:52.988Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "20.2",
+      "6.19 ms",
+      "66.8 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 8189,
+    "serverLoad": "12.11 20.71 24.17 10/2271 3804966",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:45:01.185Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "9.6",
+      "14.44 ms",
+      "166.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 11694,
+    "serverLoad": "13.65 20.77 24.16 24/2426 3805812",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "96x60",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:45:12.880Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "10.5",
+      "15.16 ms",
+      "133.4 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 9133,
+    "serverLoad": "15.41 20.91 24.17 35/2422 3805973",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:45:22.016Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "1.4",
+      "82.42 ms",
+      "950.6 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 20552,
+    "serverLoad": "15.90 20.71 24.03 5/2444 3806461",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "320x200",
+    "mode": "doom",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:45:42.570Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.0",
+      "111.47 ms",
+      "1401.0 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 24658,
+    "serverLoad": "21.75 21.68 24.27 20/2632 3807651",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "branch",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:46:07.230Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic data-source \u00b7 da4474be8f3d",
+      "0.7",
+      "147.00 ms",
+      "1867.9 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 112270,
+    "serverLoad": "31.45 26.10 25.62 21/2273 3811736",
+    "errors": []
+  },
+  {
+    "trial": 20,
+    "res": "320x200",
+    "mode": "colors",
+    "version": "master",
+    "browserGroup": "vnc-chrome",
+    "startedAt": "2026-11-09T11:47:59.505Z",
+    "status": "Complete. Results are specific to this browser and device.",
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.9",
+      "125.56 ms",
+      "1517.7 ms"
+    ],
+    "hidden": false,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+    "dpr": 2,
+    "viewport": [
+      1280,
+      800
+    ],
+    "complete": true,
+    "durationMs": 91174,
+    "serverLoad": "23.97 24.96 25.26 34/2335 3815658",
+    "errors": []
+  }
+]

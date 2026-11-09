@@ -1,5 +1,11 @@
 import { chromium, expect } from '@playwright/test';
 const renderer = process.argv[2] ?? 'aggrid';
+const selector = {
+  premium: '.premium-grid .premium-pixel',
+  mosaic: '.mosaic-cell',
+  aggrid: '.ag-cell',
+  tanstack: '.tanstack-pixel',
+}[renderer];
 const url = process.env.DEMO_URL ?? 'http://127.0.0.1:5186';
 const browser = await chromium.launch();
 try {
@@ -8,16 +14,18 @@ try {
   page.on('pageerror', (e) => errors.push(e.message));
   await page.goto(`${url}/?renderer=${renderer}`);
   await page.getByRole('button', { name: 'Start DOOM' }).click();
-  await expect(page.locator('.pixel[style*="background"]')).toHaveCount(23040, { timeout: 30000 });
+  await expect(page.locator(`${selector}[style*="background"]`)).toHaveCount(23040, {
+    timeout: 30000,
+  });
   await expect(page.locator('.overlay')).toHaveCount(0);
   const first = await page
-    .locator('.pixel')
+    .locator(selector)
     .evaluateAll((nodes) => nodes.map((n) => n.style.backgroundColor).join(','));
   await page.keyboard.down('ArrowRight');
   await page.waitForTimeout(1200);
   await page.keyboard.up('ArrowRight');
   const second = await page
-    .locator('.pixel')
+    .locator(selector)
     .evaluateAll((nodes) => nodes.map((n) => n.style.backgroundColor).join(','));
   expect(first).not.toEqual(second);
   await page.screenshot({ path: `/tmp/doom-${renderer}.png`, fullPage: true });

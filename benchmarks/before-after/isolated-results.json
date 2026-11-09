@@ -1,0 +1,1122 @@
+[
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "premium",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n21.4\t3.30 ms\t66.7 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "21.4",
+      "3.30 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "premium",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n12.6\t3.42 ms\t133.3 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "12.6",
+      "3.42 ms",
+      "133.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "mosaic",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n15.1\t3.16 ms\t83.4 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "15.1",
+      "3.16 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "mosaic",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n27.5\t4.18 ms\t50.1 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "27.5",
+      "4.18 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "aggrid",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n18.5\t3.24 ms\t83.3 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "18.5",
+      "3.24 ms",
+      "83.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "aggrid",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n33.1\t2.60 ms\t50.0 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "33.1",
+      "2.60 ms",
+      "50.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "tanstack",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n20.3\t3.39 ms\t66.7 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "20.3",
+      "3.39 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "tanstack",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n35.8\t2.61 ms\t50.0 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "35.8",
+      "2.61 ms",
+      "50.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "mui-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n25.9\t4.31 ms\t50.1 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "25.9",
+      "4.31 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "mui-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n30.8\t4.34 ms\t50.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "30.8",
+      "4.34 ms",
+      "50.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "base-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n26.7\t5.05 ms\t50.1 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "26.7",
+      "5.05 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "base-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n34.8\t3.93 ms\t50.0 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "34.8",
+      "3.93 ms",
+      "50.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "scheduler",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Scheduler\nScheduler 9.0.0-beta.15\n\t\n3.4\t6.77 ms\t383.4 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Scheduler\nScheduler 9.0.0-beta.15",
+      "3.4",
+      "6.77 ms",
+      "383.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "doom",
+    "renderer": "scheduler",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Scheduler\nScheduler 9.0.0-beta.15\n\t\n5.9\t2.92 ms\t366.6 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Scheduler\nScheduler 9.0.0-beta.15",
+      "5.9",
+      "2.92 ms",
+      "366.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "premium",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n12.4\t8.81 ms\t100.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "12.4",
+      "8.81 ms",
+      "100.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "premium",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n6.1\t7.96 ms\t200.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "6.1",
+      "7.96 ms",
+      "200.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "mosaic",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n9.7\t8.14 ms\t133.3 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "9.7",
+      "8.14 ms",
+      "133.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "mosaic",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n17.2\t6.74 ms\t66.8 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "17.2",
+      "6.74 ms",
+      "66.8 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "aggrid",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n10.9\t8.05 ms\t116.7 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "10.9",
+      "8.05 ms",
+      "116.7 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "aggrid",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n18.9\t5.81 ms\t66.8 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "18.9",
+      "5.81 ms",
+      "66.8 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "tanstack",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n14.2\t7.25 ms\t83.4 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "14.2",
+      "7.25 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "tanstack",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n27.1\t6.70 ms\t50.1 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "27.1",
+      "6.70 ms",
+      "50.1 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "mui-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n12.6\t11.28 ms\t100.1 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "12.6",
+      "11.28 ms",
+      "100.1 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "mui-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n15.5\t10.19 ms\t83.4 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "15.5",
+      "10.19 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "base-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n15.8\t9.89 ms\t83.4 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "15.8",
+      "9.89 ms",
+      "83.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "base-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n18.8\t8.84 ms\t66.7 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "18.8",
+      "8.84 ms",
+      "66.7 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "scheduler",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Scheduler\nScheduler 9.0.0-beta.15\n\t\n1.7\t10.30 ms\t766.6 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Scheduler\nScheduler 9.0.0-beta.15",
+      "1.7",
+      "10.30 ms",
+      "766.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "96x60",
+    "mode": "colors",
+    "renderer": "scheduler",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Scheduler\nScheduler 9.0.0-beta.15\n\t\n1.8\t9.92 ms\t649.9 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Scheduler\nScheduler 9.0.0-beta.15",
+      "1.8",
+      "9.92 ms",
+      "649.9 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "premium",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n1.8\t44.93 ms\t750.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "1.8",
+      "44.93 ms",
+      "750.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "premium",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n1.3\t43.06 ms\t1766.6 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "1.3",
+      "43.06 ms",
+      "1766.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "mosaic",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n1.3\t41.32 ms\t1000.0 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.3",
+      "41.32 ms",
+      "1000.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "mosaic",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n2.5\t38.99 ms\t533.4 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "2.5",
+      "38.99 ms",
+      "533.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "aggrid",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n1.3\t80.54 ms\t1533.2 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "1.3",
+      "80.54 ms",
+      "1533.2 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "aggrid",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n3.2\t36.62 ms\t433.4 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "3.2",
+      "36.62 ms",
+      "433.4 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "tanstack",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n2.0\t38.81 ms\t633.3 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "2.0",
+      "38.81 ms",
+      "633.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "tanstack",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n4.6\t30.10 ms\t266.6 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "4.6",
+      "30.10 ms",
+      "266.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "mui-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n3.0\t56.34 ms\t500.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "3.0",
+      "56.34 ms",
+      "500.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "mui-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n2.9\t57.38 ms\t533.3 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "2.9",
+      "57.38 ms",
+      "533.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "base-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n3.0\t51.87 ms\t466.6 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "3.0",
+      "51.87 ms",
+      "466.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "base-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n3.2\t51.07 ms\t400.0 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "3.2",
+      "51.07 ms",
+      "400.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "scheduler",
+    "version": 10,
+    "error": "TimeoutError: locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Run benchmark' })\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"primary\">Run benchmark</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m    - element is visible, enabled and stable\u001b[22m\n\u001b[2m    - scrolling into view if needed\u001b[22m\n\u001b[2m    - done scrolling\u001b[22m\n\u001b[2m    - performing click action\u001b[22m\n"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "scheduler",
+    "version": 11,
+    "error": "TimeoutError: locator.click: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('button', { name: 'Run benchmark' })\u001b[22m\n\u001b[2m    - locator resolved to <button class=\"primary\">Run benchmark</button>\u001b[22m\n\u001b[2m  - attempting click action\u001b[22m\n\u001b[2m    - waiting for element to be visible, enabled and stable\u001b[22m\n\u001b[2m    - element is visible, enabled and stable\u001b[22m\n\u001b[2m    - scrolling into view if needed\u001b[22m\n\u001b[2m    - done scrolling\u001b[22m\n\u001b[2m    - performing click action\u001b[22m\n"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "premium",
+    "version": 10,
+    "error": "Error: page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "scheduler",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Scheduler\nScheduler 9.0.0-beta.15\n\t\n0.7\t50.00 ms\t3633.1 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Scheduler\nScheduler 9.0.0-beta.15",
+      "0.7",
+      "50.00 ms",
+      "3633.1 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "doom",
+    "renderer": "scheduler",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Scheduler\nScheduler 9.0.0-beta.15\n\t\n0.5\t64.63 ms\t4299.8 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Scheduler\nScheduler 9.0.0-beta.15",
+      "0.5",
+      "64.63 ms",
+      "4299.8 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "premium",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n0.8\t99.32 ms\t1483.2 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "0.8",
+      "99.32 ms",
+      "1483.2 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "premium",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Premium\nData Grid Premium 9.17.0\n\t\n0.6\t91.22 ms\t2433.3 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Premium\nData Grid Premium 9.17.0",
+      "0.6",
+      "91.22 ms",
+      "2433.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "mosaic",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n0.7\t80.69 ms\t1616.6 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "0.7",
+      "80.69 ms",
+      "1616.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "mosaic",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb\n\t\n1.4\t80.79 ms\t850.0 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Mosaic\nMosaic \u00b7 2ae53b9ee2cb",
+      "1.4",
+      "80.79 ms",
+      "850.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "aggrid",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n0.8\t95.72 ms\t1466.6 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "0.8",
+      "95.72 ms",
+      "1466.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "aggrid",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "AG Grid\nAG Grid Community 36.3.0\n\t\n1.4\t93.39 ms\t933.3 ms",
+    "cells": 4,
+    "values": [
+      "AG Grid\nAG Grid Community 36.3.0",
+      "1.4",
+      "93.39 ms",
+      "933.3 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "tanstack",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n1.2\t73.94 ms\t1083.2 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "1.2",
+      "73.94 ms",
+      "1083.2 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "tanstack",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "TanStack Table\nTanStack Table 9.3.1\n\t\n2.2\t83.95 ms\t566.6 ms",
+    "cells": 4,
+    "values": [
+      "TanStack Table\nTanStack Table 9.3.1",
+      "2.2",
+      "83.95 ms",
+      "566.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "mui-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n1.7\t95.62 ms\t700.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "1.7",
+      "95.62 ms",
+      "700.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "mui-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "MUI X Heatmap\nMUI X Charts 9.17.0\n\t\n1.7\t95.44 ms\t650.0 ms",
+    "cells": 4,
+    "values": [
+      "MUI X Heatmap\nMUI X Charts 9.17.0",
+      "1.7",
+      "95.44 ms",
+      "650.0 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "base-heatmap",
+    "version": 10,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n1.7\t95.90 ms\t666.6 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "1.7",
+      "95.90 ms",
+      "666.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "base-heatmap",
+    "version": 11,
+    "status": "Complete. Results are specific to this browser and device.",
+    "row": "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9\n\t\n1.8\t105.13 ms\t666.6 ms",
+    "cells": 4,
+    "values": [
+      "Base UI Heatmap\nBase UI Charts \u00b7 db47a70f7ab9",
+      "1.8",
+      "105.13 ms",
+      "666.6 ms"
+    ],
+    "hidden": false,
+    "dpr": 2,
+    "ua": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.37 Safari/537.36",
+    "errors": []
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "scheduler",
+    "version": 10,
+    "error": "TimeoutError: page.waitForFunction: Timeout 300000ms exceeded."
+  },
+  {
+    "trial": 1,
+    "res": "320x200",
+    "mode": "colors",
+    "renderer": "scheduler",
+    "version": 11,
+    "error": "TimeoutError: page.waitForFunction: Timeout 300000ms exceeded."
+  }
+]

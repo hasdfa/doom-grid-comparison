@@ -1,13 +1,11 @@
 # DOOM Grid
 
-A static Vite demo of DOOM rendered in 23,040 cells. Switch between MUI X Data Grid Premium 9.17.0, Base UI Mosaic (source revision 2ae53b9ee2cb), AG Grid Community 36.3.0, TanStack Table 9.3.1, MUI X Charts Heatmap 9.17.0, Base UI Charts Heatmap (source revision db47a70f7ab9), and MUI X Scheduler 9.0.0-beta.15.
-
-Live demo: https://doom-grid-comparison-nov5-a419.seemyslop.online
+A static Vite demo of DOOM rendered in 23,040 cells. Switch between MUI X Data Grid Premium 9.17.0, Base UI Mosaic (data-source revision da4474be8f3d), AG Grid Community 36.3.0, TanStack Table 9.3.1, MUI X Charts Heatmap 9.17.0, Base UI Charts Heatmap (source revision db47a70f7ab9), and MUI X Scheduler 9.0.0-beta.15.
 
 This repository contains the standalone demo source, tests, and game runtime.
-The private Base UI Charts and Mosaic vendor archives are deliberately excluded.
-Before `pnpm install`, obtain authorized access to those repositories and produce the three archives described in `vendor/README.md`.
-Without those archives, installation cannot complete. The hosted demo is available without building locally.
+Private Base UI Charts and Mosaic vendor archives are excluded.
+Before `pnpm install`, obtain authorized access and build the three archives described in `vendor/README.md`.
+Installation requires those archives; the hosted demo does not.
 
 ```sh
 cd doom-grid-comparison
@@ -51,13 +49,16 @@ After building, start `pnpm exec vite preview --host 127.0.0.1 --port 5186`, the
 
 Publish the built `dist/` directory with `seemyslop deploy dist --id doom-grid-comparison-nov5-a419 --no-git-metadata --json` from the repository root.
 This static deployment does not depend on a running server or Cloudflare Tunnel.
+The data-source branch experiment is https://doom-mosaic-data-source-nov9-a419.seemyslop.online/?renderer=mosaic.
+It uses Mosaic commit `da4474be8f3dc8b89c16612a2311b67477602b9c` through `useClientDataSource`.
+The painter still writes cell backgrounds directly; it does not call row transactions.
 The previous dedicated tunnel at `doom-dg.raksha.bio` is separate from this deployment.
 
 ## Verification
 
 `pnpm typecheck`, `pnpm lint`, `pnpm test`, and `pnpm build` pass.
 `node tests/renderer.mjs <renderer>` checks real colored cells, changing frames, pause/resume, restart, and narrow-screen overflow.
-Set `DEMO_URL=https://doom-grid-comparison-nov5-a419.seemyslop.online` to check the published site.
+Set `DEMO_URL=https://doom-mosaic-data-source-nov9-a419.seemyslop.online` to check the published site.
 Renderer values are `premium`, `mosaic`, `aggrid`, `tanstack`, `mui-heatmap`, and `base-heatmap`. The heatmap browser check is `node tests/heatmaps.mjs`.
 
 ## Resolution and benchmark
@@ -83,3 +84,12 @@ The benchmark test selector also offers a three-second DOOM walk. Each renderer 
 FPS counts new framebuffer paints over actual elapsed time. Update time includes sampling and style writes; P95 measures intervals between framebuffer paints.
 Loading and warmup are excluded. The regular game stays paused, and cancellation disposes the benchmark worker and releases its input.
 Run `BENCHMARK_MODE=doom node tests/benchmark.mjs` for the gameplay benchmark check.
+
+## Performance experiments
+
+Client adapters paint real library elements and preserve every pixel. Premium retains its faster child-span painter.
+Mosaic uses the `data-source` branch; other library source remains unchanged.
+
+- [Before and after client optimizations](https://doom-grid-before-after-nov7-a419.seemyslop.online/)
+- [Mosaic branch comparison: 20 passes](https://doom-mosaic-ten-passes-nov9-a419.seemyslop.online/)
+- [Recorded observations and methodology](benchmarks/mosaic-20-passes/README.md)

@@ -15,8 +15,8 @@ importers:
         specifier: file:vendor/base-ui-charts-db47a70f7ab9.tgz
         version: file:vendor/base-ui-charts-db47a70f7ab9.tgz(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       '@base-ui/mosaic':
-        specifier: file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz
-        version: file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz(@base-ui/react@1.9.0(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+        specifier: file:vendor/base-ui-mosaic-da4474be8f3d.tgz
+        version: file:vendor/base-ui-mosaic-da4474be8f3d.tgz(@base-ui/react@1.9.0(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       '@base-ui/react':
         specifier: 1.9.0
         version: 1.9.0(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
@@ -198,11 +198,11 @@ packages:
       '@types/react':
         optional: true
 
-  '@base-ui/mosaic@file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz':
-    resolution: {integrity: sha512-CiHhYyH7UYfpy/c8rVJHWwt8lksLNEab56cU8X6ztRZ+ZsBmT2MD5XUoK6iowE2fAJIanafMV9efZCBa3QGBAQ==, tarball: file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz}
-    version: 0.0.0-source.2ae53b9ee2cb
+  '@base-ui/mosaic@file:vendor/base-ui-mosaic-da4474be8f3d.tgz':
+    resolution: {integrity: sha512-EZbX1MFDW1Ttu2uvWxVembzFne8HWulVLO6lxXCY+FNaAPFv5sVFts0hCkUBu6q0Jk6MQuFmkw94OiCLlH3IpA==, tarball: file:vendor/base-ui-mosaic-da4474be8f3d.tgz}
+    version: 0.0.0-source.da4474be8f3d
     peerDependencies:
-      '@base-ui/react': ^1.8.0
+      '@base-ui/react': ^1.9.0
       '@types/react': ^17 || ^18 || ^19
       react: ^17 || ^18 || ^19
       react-dom: ^17 || ^18 || ^19
@@ -225,16 +225,6 @@ packages:
       '@types/react':
         optional: true
       date-fns:
-        optional: true
-
-  '@base-ui/utils@0.4.0':
-    resolution: {integrity: sha512-bO9fz25kKtPf+aZVyfQrC0PDmJdmVni31W2hCS5/Owb+inwdIL3XU26pCPRPlt4LSxZrBgLwubXQXQlKaFEZzw==}
-    peerDependencies:
-      '@types/react': ^17 || ^18 || ^19
-      react: ^17 || ^18 || ^19
-      react-dom: ^17 || ^18 || ^19
-    peerDependenciesMeta:
-      '@types/react':
         optional: true
 
   '@base-ui/utils@0.5.0':
@@ -2352,11 +2342,11 @@ snapshots:
       - '@date-fns/tz'
       - date-fns
 
-  '@base-ui/mosaic@file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz(@base-ui/react@1.9.0(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
+  '@base-ui/mosaic@file:vendor/base-ui-mosaic-da4474be8f3d.tgz(@base-ui/react@1.9.0(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
     dependencies:
       '@babel/runtime': 8.1.0
       '@base-ui/react': 1.9.0(@date-fns/tz@1.5.0)(@types/react@19.3.0)(date-fns@4.4.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
-      '@base-ui/utils': 0.4.0(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+      '@base-ui/utils': 0.5.0(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       '@mui/x-virtualizer': 0.7.4(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       react: 19.2.8
       react-dom: 19.2.8(react@19.2.8)
@@ -2377,17 +2367,6 @@ snapshots:
       '@date-fns/tz': 1.5.0
       '@types/react': 19.3.0
       date-fns: 4.4.0
-
-  '@base-ui/utils@0.4.0(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
-    dependencies:
-      '@babel/runtime': 7.29.10
-      '@floating-ui/utils': 0.2.12
-      react: 19.2.8
-      react-dom: 19.2.8(react@19.2.8)
-      reselect: 5.3.0
-      use-sync-external-store: 1.7.0(react@19.2.8)
-    optionalDependencies:
-      '@types/react': 19.3.0
 
   '@base-ui/utils@0.5.0(@types/react@19.3.0)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
     dependencies:

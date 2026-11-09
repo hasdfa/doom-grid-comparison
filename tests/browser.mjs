@@ -12,9 +12,9 @@ await page.waitForTimeout(5000);
 console.log('premium', await page.locator('main').innerText());
 console.log(
   'pixels',
-  await page.locator('.pixel').count(),
+  await page.locator('.stage :is(.premium-pixel, .mosaic-cell)').count(),
   'colored',
-  await page.locator('.pixel[style*="background"]').count(),
+  await page.locator('.stage :is(.premium-pixel, .mosaic-cell)[style*="background"]').count(),
 );
 await page.keyboard.down('ArrowUp');
 await page.waitForTimeout(1200);
@@ -28,9 +28,9 @@ await page.keyboard.up('ArrowRight');
 console.log('mosaic', await page.locator('main').innerText());
 console.log(
   'pixels',
-  await page.locator('.pixel').count(),
+  await page.locator('.stage :is(.premium-pixel, .mosaic-cell)').count(),
   'colored',
-  await page.locator('.pixel[style*="background"]').count(),
+  await page.locator('.stage :is(.premium-pixel, .mosaic-cell)[style*="background"]').count(),
 );
 await page.screenshot({ path: '/tmp/doom-mosaic.png', fullPage: true });
 await page.getByRole('button', { name: 'Pause', exact: true }).click();

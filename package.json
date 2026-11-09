@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@base-ui/charts": "file:vendor/base-ui-charts-db47a70f7ab9.tgz",
-    "@base-ui/mosaic": "file:vendor/base-ui-mosaic-2ae53b9ee2cb.tgz",
+    "@base-ui/mosaic": "file:vendor/base-ui-mosaic-da4474be8f3d.tgz",
     "@base-ui/react": "1.9.0",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.1",

@@ -45,3 +45,16 @@ it('paints SVG heatmap cells with fill rather than HTML background colors', () =
   expect(style.fill).toBe('#123456');
   expect(style.backgroundColor).toBe('');
 });
+
+it('repaints replacement nodes even when their pixel color is unchanged', () => {
+  const first = { style: { backgroundColor: '' } } as HTMLElement;
+  const replacement = { style: { backgroundColor: '' } } as HTMLElement;
+  const previous = new Int32Array([-1]);
+  const colors = new Uint32Array([0x123456]);
+  expect(paintFrame([first], colors, previous)).toBe(1);
+  expect(paintFrame([first], colors, previous)).toBe(0);
+  expect(paintFrame([replacement], colors, previous)).toBe(1);
+  expect(replacement.style.backgroundColor).toBe('#123456');
+  expect(paintFrame([null], colors, previous)).toBe(0);
+  expect(paintFrame([replacement], colors, previous)).toBe(1);
+});

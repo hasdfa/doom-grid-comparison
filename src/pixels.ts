@@ -22,21 +22,29 @@ export function sampleFrame(
   }
 }
 
+const paintedNodes = new WeakMap<Int32Array, (PixelElement | null)[]>();
+
 export function paintFrame(
   cells: (PixelElement | null)[],
   colors: Uint32Array,
   previous: Int32Array,
 ) {
+  let nodes = paintedNodes.get(previous);
+  if (!nodes) {
+    nodes = Array(colors.length).fill(null);
+    paintedNodes.set(previous, nodes);
+  }
   let changed = 0;
   for (let i = 0; i < colors.length; i++) {
     const cell = cells[i];
-    if (cell && previous[i] !== colors[i]) {
+    if (cell && (previous[i] !== colors[i] || nodes[i] !== cell)) {
       const color = '#' + colors[i].toString(16).padStart(6, '0');
       if (cell.namespaceURI === 'http://www.w3.org/2000/svg') cell.style.fill = color;
       else cell.style.backgroundColor = color;
       previous[i] = colors[i];
       changed++;
     }
+    nodes[i] = cell;
   }
   return changed;
 }

@@ -9,8 +9,14 @@ try {
       window.benchmarkWorkers = new Set();
       const NativeWorker = window.Worker;
       window.Worker = class extends NativeWorker {
-        constructor(...args) { super(...args); window.benchmarkWorkers.add(this); }
-        terminate() { window.benchmarkWorkers.delete(this); return super.terminate(); }
+        constructor(...args) {
+          super(...args);
+          window.benchmarkWorkers.add(this);
+        }
+        terminate() {
+          window.benchmarkWorkers.delete(this);
+          return super.terminate();
+        }
       };
     });
   }
@@ -18,14 +24,19 @@ try {
   if (process.env.BENCHMARK_MODE === 'doom') {
     await page.getByLabel('Benchmark test').selectOption('doom');
     await page.getByRole('button', { name: 'Start DOOM' }).click();
-    await expect(page.locator('.stage .pixel[style*=background]')).toHaveCount(23040, { timeout: 30000 });
+    await expect(page.locator('.stage .premium-pixel[style*=background]')).toHaveCount(23040, {
+      timeout: 30000,
+    });
   }
   await page.getByLabel('Benchmark resolution', { exact: true }).selectOption('96x60');
   await page.getByRole('button', { name: 'Run benchmark' }).click();
   await expect(page.getByRole('status')).toContainText(/Testing|Loading DOOM|Walking and shooting/);
   await expect(page.getByLabel('Benchmark resolution', { exact: true })).toBeDisabled();
   await expect(page.locator('.benchmark figcaption')).toContainText('96 × 60');
-  if (process.env.BENCHMARK_MODE === 'doom') await expect(page.getByRole('status')).toContainText('Walking and shooting', { timeout: 30000 });
+  if (process.env.BENCHMARK_MODE === 'doom')
+    await expect(page.getByRole('status')).toContainText('Walking and shooting', {
+      timeout: 30000,
+    });
   await page.getByRole('button', { name: 'Cancel benchmark' }).click();
   await expect(page.getByRole('status')).toContainText('cancelled');
   await page.getByRole('button', { name: 'Run benchmark' }).click();
@@ -48,7 +59,9 @@ try {
   await page.getByLabel('Benchmark resolution', { exact: true }).selectOption('128x80');
   await expect(page.locator('.benchmark figcaption')).toContainText('128 × 80');
   await expect(page.getByLabel('Resolution', { exact: true })).toHaveValue('192x120');
-  expect(await page.locator('.benchmark-table tbody tr').allTextContents()).toEqual(expect.arrayContaining([expect.stringContaining('—')]));
+  expect(await page.locator('.benchmark-table tbody tr').allTextContents()).toEqual(
+    expect.arrayContaining([expect.stringContaining('—')]),
+  );
   expect(errors).toEqual([]);
   console.log(
     'PASS: cancel, rerun, seven measured chart rows, controls restored, mobile overflow, no page errors',
